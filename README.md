@@ -1,2 +1,2 @@
-# master_thesis
+# Master thesis
 This repository contains the data/code/report of my master thesis
