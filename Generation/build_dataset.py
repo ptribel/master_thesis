@@ -1,4 +1,5 @@
 # Builds a dataset from WAV files passed as argument
+# Syntax: python3 build_dataset dest $(ls path/*.wav)
 from wav_tensor_conversion import encode_wav_to_tensor
 import tensorflow.data
 from sys import argv
