@@ -8,4 +8,4 @@ This repository contains the data/code/report of my master thesis.
   - One with the clean samples
   - One with the samples with vinyl noise
   - One with the samples with white noise
-- The wav files can be converted to a tensorflow dataset using the utils files in the `Generation` folder, but this tensorflow dataset is already on this repository
+- The wav files can be converted to a tensorflow dataset using the utils files in the `Generation` folder
