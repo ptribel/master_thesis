@@ -15,4 +15,5 @@ This repository contains the data/code/report of my master thesis.
 ## Models
 For now, two models are available:
 - An autoencoder
-- A convolutional autoencoder (not working for now)
+- A convolutional autoencoder
+- A Generative Adversarial Network
