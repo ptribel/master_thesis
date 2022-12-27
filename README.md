@@ -17,3 +17,9 @@ For now, two models are available:
 - An autoencoder
 - A convolutional autoencoder
 - A Generative Adversarial Network
+
+## Heisenberg's uncertainty principle
+
+- A narrow window will localize the signal in time but there will be significant uncertainty in frequency.
+- If the window is wide enough, then the time uncertainty increases.
+This is the tradeoff between time and frequency resolution.
